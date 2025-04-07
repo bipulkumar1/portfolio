@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Patent
-permalink: /patent.html
+permalink: /Patent.html
 ---
 
 <h2 style="text-align: center;">Patents</h2>
