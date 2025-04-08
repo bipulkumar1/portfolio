@@ -10,7 +10,7 @@ My long-term vision is to shape the future of **connected technologies** as a **
 <br/>
 
 <div style="text-align: center;">
-  <h1 style="font-size: 36px; margin-bottom: 10px;">🚀 My Tech Projects Portfolio</h1>
+  <h1 style="font-size: 36px; margin-bottom: 10px;"> My Tech Projects Portfolio</h1>
   <p style="font-size: 18px;">Explore my work across AI/ML, Data Science, IoT, and more</p>
 </div>
 
