@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OS Projects
-permalink: /os-projects.html
+permalink: /osprojects.html
 ---
 
 <div style="text-align: center;">
