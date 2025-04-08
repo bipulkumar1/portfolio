@@ -19,7 +19,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
 
 <center>
-  <img src="assets/img/genAI.jpg" style="max-width: 500px; height: auto;"/>
+  <img src="assets/img/genAI.jpg" style="max-width: 400px; height: auto;" />
 </center>
 
 ---
@@ -31,5 +31,5 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
 
 <center>
-  <img src="assets/img/genAI.jpg" style="max-width: 500px; height: auto;"/>
+  <img src="assets/img/genAI.jpg" style="max-width: 400px; height: auto;" />
 </center>
