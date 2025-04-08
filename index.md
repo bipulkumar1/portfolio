@@ -45,7 +45,6 @@ My long-term vision is to shape the future of **connected technologies** as a **
 </div>
 
 
-
 # Introduction
 ---
 I'm **Vipul Singh aka Bipul Kumar**, a Product Leader and Embedded Systems Consultant with **10+ years** of experience building high-impact products and driving technology strategy across **Automotive**, **IoT**, and **AI** domains.
@@ -64,7 +63,7 @@ My long-term vision is to shape the future of **connected technologies** as a **
 
 <hr style="margin: 30px 0;" />
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 0 auto;">
 
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>🤖 AI - ML Projects</h3>
