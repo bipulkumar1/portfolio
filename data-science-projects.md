@@ -1,8 +1,11 @@
+
+
 ---
 layout: page
-title: data-science projects
-permalink: /data-science-projects.html
+title: ai-ml projects
+permalink: /ai-ml-projects.html
 ---
+
 
 ## Telecom Churn Prediction
 ### Data Analysis
