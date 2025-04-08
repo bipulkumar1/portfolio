@@ -5,17 +5,27 @@ permalink: /ai-ml-projects.html
 ---
 
 # AI-ML Projects
+### AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI
+**-------------------------------------------------------------**
+---
+## Style Transfer Using GAN
+### GAN 
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-### Firmware | Device Driver | Real-Time Systems
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
+<center><img src="assets/img/genAI.jpg"/></center>
+---
+## Gesture Control 
+### Image processing
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-#### 🔧 Project 1: Real-Time BLE Media Controller
-- Description: A BLE-based device with play/pause/volume control features.
-- Hardware: EFR32BG22
-- Languages: C, Bluetooth Stack
-- [GitHub Repo](https://github.com/...)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
+<center><img src="assets/img/genAI.jpg"/></center>
+----
+## Melanoma Detection 
+### Image processing
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-#### 🔧 Project 2: Multicore Sensor Driver Framework
-- Description: Built a sensor fusion driver on Cortex-M7...
-...
-
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
+<center><img src="assets/img/genAI.jpg"/></center>
 
