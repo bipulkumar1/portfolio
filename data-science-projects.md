@@ -1,35 +1,37 @@
 ---
 layout: page
-title: data science projects
+title: Data Science Projects
 permalink: /data-science-projects.html
 ---
 
 <div style="text-align: center;">
-  <h1>Data Science Projects</h1>
-  <h3>Churn | Credit Score | Data Analysis | Predictive Modeling</h3>
+  <h1> Data Science Projects</h1>
+  <h3 style="font-weight: normal;">Churn | Credit Score | Predictive Analytics | ML Models</h3>
 </div>
+<hr style="margin: 20px 0;"/>
 
-**-------------------------------------------------------------**
----
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-## Telecom Churn Prediction  
-### Data Analysis  
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams, and more.
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3>📞 Telecom Churn Prediction</h3>
+    <p><strong>Domain:</strong> Data Analysis</p>
+    <p>Predicts customer churn using exploratory data analysis and ML models.</p>
+    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>
+  </div>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3>🏦 Loan Eligibility Predictor</h3>
+    <p><strong>Domain:</strong> Credit Risk Analysis</p>
+    <p>Assesses loan eligibility based on credit history and financial indicators.</p>
+    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>
+  </div>
 
-<center>
-  <img src="assets/img/genAI.jpg" style="max-width: 400px; height: auto;" />
-</center>
-
----
-
-## Loan Eligibility Based On Credit Score for Banks  
-### Data Analysis  
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams, and more.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/bipulkumar1/Test.git)
-
-<center>
-  <img src="assets/img/genAI.jpg" style="max-width: 400px; height: auto;" />
-</center>
+</div>
