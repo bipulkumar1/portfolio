@@ -5,7 +5,7 @@ permalink: /os-projects.html
 ---
 
 <div style="text-align: center;">
-  <h1> OS (Linux - Android) Projects</h1>
+  <h1> OS (Linux-Android) Projects</h1>
   <h3 style="font-weight: normal;">AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI</h3>
 </div>
 <hr style="margin: 20px 0;"/>
