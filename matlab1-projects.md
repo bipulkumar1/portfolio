@@ -1,11 +1,18 @@
 ---
 layout: page
-title: OS Projects
-permalink: /os-projects.html
+title: MATLAB Projects
+permalink: /matlab1-projects.html
 ---
 
+
+<!---
+layout: page
+title: OS Projects
+permalink: /os-projects.html
+--->
+
 <div style="text-align: center;">
-  <h1> MATLAB Projects</h1>
+  <h1> OS Projects</h1>
   <h3 style="font-weight: normal;">AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI</h3>
 </div>
 <hr style="margin: 20px 0;"/>
