@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI/ML Projects
+title: AI-ML Projects
 permalink: /ai-ml-projects.html
 ---
 
