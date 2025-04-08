@@ -1,7 +1,7 @@
 ---
 layout: page
-title: datascience projects
-permalink: /datascience-projects.html
+title: data-science projects
+permalink: /data-science-projects.html
 ---
 
 ## Telecom Churn Prediction
