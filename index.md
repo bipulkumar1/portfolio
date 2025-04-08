@@ -17,6 +17,32 @@ My long-term vision is to shape the future of **connected technologies** as a **
 - [OS & Linux Projects](os-projects.html)
 
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; padding: 20px;">
+  <a href="/embedded-projects.html" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
+      <h3>🔧 Embedded Projects</h3>
+      <p>Device Drivers, Firmware, Real-Time Systems</p>
+    </div>
+  </a>
+
+  <a href="/iot-projects.html" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
+      <h3>🌐 IoT Projects</h3>
+      <p>BLE, Wi-Fi, LTE, GPS, Cloud Integration</p>
+    </div>
+  </a>
+
+  <a href="/ai-ml-projects.html" style="text-decoration: none;">
+    <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
+      <h3>🧠 AI/ML Projects</h3>
+      <p>Image Processing, GANs, NLP, DL</p>
+    </div>
+  </a>
+</div>
+
+
+
+
 # Data Science Projects
 ### AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI
 **-------------------------------------------------------------**
