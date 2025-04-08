@@ -4,7 +4,7 @@ title: OS Projects
 permalink: /os-projects.html
 ---
 
-# Embedded Projects
+# OS Projects
 
 ### Firmware | Device Driver | Real-Time Systems
 
