@@ -1,4 +1,4 @@
-# 👋 Introduction
+# Introduction
 ---
 I'm **Bipul Kumar**, a Product Leader and Embedded Systems Consultant with **10+ years** of experience building high-impact products and driving technology strategy across **Automotive**, **IoT**, and **AI** domains.
 
