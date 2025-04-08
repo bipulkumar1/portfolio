@@ -36,19 +36,19 @@ My long-term vision is to shape the future of **connected technologies** as a **
   <div style="width: 250px; border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>📊 Data Science Projects</h3>
     <p>Churn Prediction, Loan Eligibility</p>
-    <a href="/datascience-projects.html" style="text-decoration: none; color: white; background: #28a745; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/datascience-projects.html" style="text-decoration: none; color: white; background: #28a745; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
   <div style="width: 250px; border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>🌐 IoT Projects</h3>
     <p>BLE Devices, Cloud Integration</p>
-    <a href="/iot-projects.html" style="text-decoration: none; color: white; background: #ff5722; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/iot-projects.html" style="text-decoration: none; color: white; background: #ff5722; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
   <div style="width: 250px; border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3> Embedded Projects</h3>
     <p>Flutter, Cross-Platform Tools</p>
-    <a href="/embedded-projects.html" style="text-decoration: none; color: white; background: #6f42c1; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/embedded-projects.html" style="text-decoration: none; color: white; background: #6f42c1; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
 </div>
