@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 title: os projects
 permalink: /os-projects.html
@@ -18,4 +18,4 @@ permalink: /os-projects.html
 - Description: Built a sensor fusion driver on Cortex-M7...
 ...
 
-
+>
