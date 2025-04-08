@@ -1,6 +1,6 @@
 ---
 layout: page
-title: data-science Projects
+title: data-science projects
 permalink: /data-science-projects.html
 ---
 
