@@ -64,32 +64,30 @@ My long-term vision is to shape the future of **connected technologies** as a **
 
 <hr style="margin: 30px 0;" />
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
 
-  <div style="flex: 1 1 45%; max-width: 400px; border: 1px solid #ccc; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.08);">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>🤖 AI - ML Projects</h3>
     <p>GANs, NLP, Image Processing, Edge AI</p>
-    <a href="/portfolio/ai-ml-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 10px 20px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/ai-ml-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
-  <div style="flex: 1 1 45%; max-width: 400px; border: 1px solid #ccc; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.08);">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>📊 Data Science Projects</h3>
     <p>Churn Prediction, Loan Eligibility</p>
-    <a href="/portfolio/data-science-projects.html" style="text-decoration: none; color: white; background: #28a745; padding: 10px 20px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/data-science-projects.html" style="text-decoration: none; color: white; background: #28a745; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
-  <div style="flex: 1 1 45%; max-width: 400px; border: 1px solid #ccc; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.08);">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>🌐 IoT Projects</h3>
     <p>BLE Devices, Cloud Integration</p>
-    <a href="/portfolio/iot-projects.html" style="text-decoration: none; color: white; background: #ff5722; padding: 10px 20px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <a href="/portfolio/iot-projects.html" style="text-decoration: none; color: white; background: #ff5722; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
-  <div style="flex: 1 1 45%; max-width: 400px; border: 1px solid #ccc; border-radius: 12px; padding: 20px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.08);">
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>🔌 Embedded Projects</h3>
-    <p>RTOS, Drivers, Cross-Platform Firmware</p>
-    <a href="/portfolio/embedded-projects.html" style="text-decoration: none; color: white; background: #6f42c1; padding: 10px 20px; border-radius: 8px; display: inline-block;">View Projects</a>
+    <p>RTOS, Drivers, Bare-Metal & Edge Firmware</p>
+    <a href="/portfolio/embedded-projects.html" style="text-decoration: none; color: white; background: #6f42c1; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
 </div>
-
-
