@@ -11,12 +11,6 @@ My long-term vision is to shape the future of **connected technologies** as a **
 
 # 🔍 Explore My Project Segments
 
-- [AI-ML Projects](ai-ml-projects.html)
-- [Embedded Projects](embedded-projects.html)
-- [IoT Projects](iot-projects.html)
-- [OS & Linux Projects](os-projects.html)
-
-
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; padding: 20px;">
   <a href="/embedded-projects.html" style="text-decoration: none;">
     <div style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); text-align: center;">
