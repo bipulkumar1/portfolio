@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Engineering Projects
-permalink: /data-engineering.html
+permalink: /data-engineering-projects.html
 ---
 
 <div style="text-align: center;">
