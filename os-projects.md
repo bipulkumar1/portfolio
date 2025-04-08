@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MATLAB Projects
-permalink: /matlab1-projects.html
+title: OS Projects
+permalink: /os-projects.html
 ---
 
 
