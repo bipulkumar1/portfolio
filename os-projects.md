@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OS Projects
+title: os projects
 permalink: /os-projects.html
 ---
 
