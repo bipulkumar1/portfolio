@@ -9,6 +9,13 @@ My long-term vision is to shape the future of **connected technologies** as a **
 
 <br/>
 
+# 🔍 Explore My Project Segments
+
+- [AI-ML Projects](ai-ml-projects.html)
+- [Embedded Projects](embedded-projects.html)
+- [IoT Projects](iot-projects.html)
+- [OS & Linux Projects](os-projects.html)
+
 
 # Data Science Projects
 ### AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI
