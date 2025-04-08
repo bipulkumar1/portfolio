@@ -4,7 +4,6 @@ title: OS Projects
 permalink: /os-projects.html
 ---
 
-
 <div style="text-align: center;">
   <h1> OS Projects</h1>
   <h3 style="font-weight: normal;">Embedded Linux | Kernel Customisation | Device Driver | AOSP</h3>
