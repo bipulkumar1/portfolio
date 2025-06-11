@@ -13,42 +13,108 @@ permalink: /embedded-projects.html
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>🎛️ Home Automation System</h3>
+    <h3> Home Automation System</h3>
+    <h2> (EDOM Technology)</h2>
     <p><strong>Domain:</strong> Bluetooth Low Energy (BLE)</p>
     <p><strong>Hardware:</strong> EFR32BGxx</p>
     <p><strong>Language:</strong> C</p>
-    <p>BLE based <strong> Smart Switch, Smart Bulb and Door Sensor </strong> .</p>
+    <p>BLE based <strong> Smart Switch, Smart Bulb and Door Sensor </strong> with BLE to automate the lighting system. This was the demo product based on EFR32BGxx  .</p>
     <img src="assets/img/Home_Automation.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
-    <a href="https://github.com/bipulkumar1/Test.git">
+    <!--<a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
-    </a>
+    </a>-->
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>📟 OLED Display Driver</h3>
-    <p><strong>Domain:</strong> Display Interface</p>
-    <p><strong>Hardware:</strong> STM32F103</p>
+    <h3> Touch Switch & regulator</h3>
+    <h2> (EDOM Technology)</h2>
+    <p><strong>Domain:</strong> Electical Switch & Regulator</p>
+    <p><strong>Hardware:</strong> EFM8SB</p>
     <p><strong>Language:</strong> C (LL & HAL)</p>
-    <p>Driver to control OLED display over I2C for text and graphics output.</p>
-    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <p><strong>Touch Switch and Touch Speed Regulator </strong> for Home Decor </p>
+    <img src="assets/img/Smart_Switch.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
-    <a href="https://github.com/bipulkumar1/Test.git">
+    <!--<a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
-    </a>
+    </a>-->
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>🧠 RTOS Task Scheduler</h3>
-    <p><strong>Domain:</strong> RTOS</p>
-    <p><strong>Hardware:</strong> STM32F4 Discovery</p>
-    <p><strong>Language:</strong> C (FreeRTOS)</p>
-    <p>Implements multi-tasking with FreeRTOS including inter-task communication and synchronization.</p>
-    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <h3> Solar Home Lighting System</h3>
+    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <p><strong>Domain:</strong> Solar & Embedded</p>
+    <p><strong>Hardware:</strong> Atmega8</p>
+    <p><strong>Language:</strong> C </p>
+    <p>Solar Home lighting System have a controller with in built battery which is used to impower the Lighting syatem and a small Dc fan. this was designed for the Indian     Indian rural area.</p>
+    <img src="assets/img/Home_Automation.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
+    <!--
     <a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
-    </a>
+    </a>-->
   </div>
+
+  
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3> GPS-Rf based Off-Line Tracking System</h3>
+    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <p><strong>Domain:</strong>Embedded</p>
+    <p><strong>Hardware:</strong> Atmega32</p>
+    <p><strong>Language:</strong> C </p>
+    <p>Off Line tracking device which used to audit the vehicle route and stops. Since this is for the High profile and due to risc for the hack considered Off line tracking.</p>
+    <img src="assets/img/Off_line_GPS.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <!--
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>-->
+  </div>
+
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3>Insulation Box</h3>
+    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <p><strong>Domain:</strong>Embedded</p>
+    <p><strong>Hardware:</strong> Atmega8</p>
+    <p><strong>Language:</strong> C </p>
+    <p> Design to prevent the fast discharging of the cell in extreme winter. It's mainitianing the constant temperature inside the box .</p>
+    <img src="assets/img/insulation_box.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <!--
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>-->
+  </div>
+
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3>Starter Cut-off Systemx</h3>
+    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <p><strong>Domain:</strong>Embedded</p>
+    <p><strong>Hardware:</strong> Atmega8</p>
+    <p><strong>Language:</strong> C </p>
+    <p> This was design to prevenrt the Spindle of the vehicle by start abuse. it was monitoring the Temperature of the spindle and dont allow the driver to do the consecutive attempt of the start which cause the exceesuve heat generation on the spindle.</p>
+    <img src="assets/img/image not available.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <!--
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>-->
+  </div>
+
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h3>Automatic Starter for DG Set</h3>
+    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <p><strong>Domain:</strong>Embedded</p>
+    <p><strong>Hardware:</strong> Atmega8</p>
+    <p><strong>Language:</strong> C </p>
+    <p> This was design to prevenrt the freezing the liquid in side the DG set in the exterme winder in the J & K area. It do automatic start of the Dg ste on the preset Time for the certain time and then sut it down and this process prevent the freezing.</p>
+    <img src="assets/img/image not available.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <!--
+    <a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>-->
+  </div>
+  
 
 </div>
