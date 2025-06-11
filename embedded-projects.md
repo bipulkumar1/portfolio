@@ -17,7 +17,7 @@ permalink: /embedded-projects.html
     <p><strong>Domain:</strong> Bluetooth Low Energy (BLE)</p>
     <p><strong>Hardware:</strong> EFR32BGxx</p>
     <p><strong>Language:</strong> C</p>
-    <p>BLE based Smart <strong> Smart Switch, Smart Bulb and Door Sensor.</p>
+    <p>BLE based <strong> Smart Switch, Smart Bulb and Door Sensor </strong> .</p>
     <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <a href="https://github.com/bipulkumar1/Test.git">
