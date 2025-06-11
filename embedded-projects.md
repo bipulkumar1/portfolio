@@ -14,8 +14,8 @@ permalink: /embedded-projects.html
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3> Home Automation System</h3>
-    <h2> (EDOM Technology)</h2>
+    <h2> Home Automation System</h2>
+    <h3> (EDOM Technology)</h3>
     <p><strong>Domain:</strong> Bluetooth Low Energy (BLE)</p>
     <p><strong>Hardware:</strong> EFR32BGxx</p>
     <p><strong>Language:</strong> C</p>
@@ -28,8 +28,8 @@ permalink: /embedded-projects.html
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3> Touch Switch & regulator</h3>
-    <h2> (EDOM Technology)</h2>
+    <h2> Touch Switch & regulator</h2>
+    <h3> (EDOM Technology)</h3>
     <p><strong>Domain:</strong> Electical Switch & Regulator</p>
     <p><strong>Hardware:</strong> EFM8SB</p>
     <p><strong>Language:</strong> C (LL & HAL)</p>
@@ -42,8 +42,8 @@ permalink: /embedded-projects.html
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3> Solar Home Lighting System</h3>
-    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <h2> Solar Home Lighting System</h2>
+    <h3> (Aaisha Engineering Pvt Ltd)</h3>
     <p><strong>Domain:</strong> Solar & Embedded</p>
     <p><strong>Hardware:</strong> Atmega8</p>
     <p><strong>Language:</strong> C </p>
@@ -58,8 +58,8 @@ permalink: /embedded-projects.html
 
   
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3> GPS-Rf based Off-Line Tracking System</h3>
-    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <h2> GPS-Rf based Off-Line Tracking System</h2>
+    <h3> (Aaisha Engineering Pvt Ltd)</h3>
     <p><strong>Domain:</strong>Embedded</p>
     <p><strong>Hardware:</strong> Atmega32</p>
     <p><strong>Language:</strong> C </p>
@@ -73,8 +73,8 @@ permalink: /embedded-projects.html
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>Insulation Box</h3>
-    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <h2>Insulation Box</h2>
+    <h3> (Aaisha Engineering Pvt Ltd)</h3>
     <p><strong>Domain:</strong>Embedded</p>
     <p><strong>Hardware:</strong> Atmega8</p>
     <p><strong>Language:</strong> C </p>
@@ -88,8 +88,8 @@ permalink: /embedded-projects.html
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>Starter Cut-off Systemx</h3>
-    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <h2>Starter Cut-off Systemx</h2>
+    <h3> (Aaisha Engineering Pvt Ltd)</h3>
     <p><strong>Domain:</strong>Embedded</p>
     <p><strong>Hardware:</strong> Atmega8</p>
     <p><strong>Language:</strong> C </p>
@@ -103,8 +103,8 @@ permalink: /embedded-projects.html
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>Automatic Starter for DG Set</h3>
-    <h2> (Aaisha Engineering Pvt Ltd)</h2>
+    <h2>Automatic Starter for DG Set</h2>
+    <h3> (Aaisha Engineering Pvt Ltd)</h3>
     <p><strong>Domain:</strong>Embedded</p>
     <p><strong>Hardware:</strong> Atmega8</p>
     <p><strong>Language:</strong> C </p>
