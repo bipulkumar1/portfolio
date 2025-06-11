@@ -18,7 +18,7 @@ permalink: /embedded-projects.html
     <p><strong>Hardware:</strong> EFR32BGxx</p>
     <p><strong>Language:</strong> C</p>
     <p>BLE based <strong> Smart Switch, Smart Bulb and Door Sensor </strong> .</p>
-    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <img src="assets/img/Home_Automation.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
