@@ -6,7 +6,8 @@ permalink: /embedded-projects.html
 
 <div style="text-align: center;">
   <h1> Embedded Projects</h1>
-  <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors | Display | Drivers</h3>
+  <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors </h3>
+  <!-- <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors | Display | Drivers</h3>-->
 </div>
 <hr style="margin: 20px 0;"/>
 
