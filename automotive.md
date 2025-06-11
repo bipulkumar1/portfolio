@@ -14,12 +14,12 @@ permalink: /automotive-projects.html
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h2> Home Automation System</h2>
-    <h3> (EDOM Technology)</h3>
-    <p><strong>Domain:</strong> Bluetooth Low Energy (BLE)</p>
-    <p><strong>Hardware:</strong> EFR32BGxx</p>
+    <h2> Android Cluuster</h2>
+    <h3> (Jio Platforms limited)</h3>
+    <p><strong>Domain:</strong> Automotive, AOSP, IoT, Embedded)</p>
+    <p><strong>Hardware:</strong> Mediatek</p>
     <p><strong>Language:</strong> C</p>
-    <p>BLE based <strong> Smart Switch, Smart Bulb and Door Sensor </strong> with BLE to automate the lighting system. This was the demo product based on EFR32BGxx  .</p>
+    <p>Android based Cluster for 2-Wheeler targetting premium segment.</p>
     <img src="assets/img/Home_Automation.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <!--<a href="https://github.com/bipulkumar1/Test.git">
