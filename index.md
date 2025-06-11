@@ -18,6 +18,13 @@ My long-term vision is to shape the future of **connected technologies** as a **
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 800px; margin: 0 auto;">
 
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <h3>Automotive Projects</h3>
+    <p>Clusters, Vehicle tracking devices</p>
+    <a href="/portfolio/ai-ml-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
+  </div>
+
+
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>AI - ML Projects</h3>
     <p>GANs, Deep Learning, ML, NLP, Image Processing, Edge AI</p>
     <a href="/portfolio/ai-ml-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
