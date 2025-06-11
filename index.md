@@ -30,6 +30,12 @@ My long-term vision is to shape the future of **connected technologies** as a **
     <a href="/portfolio/ai-ml-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
+
+  <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <h3>Image Processing</h3>
+    <p>Image Processing</p>
+    <a href="/portfolio/image-processing-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
+  </div>
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>Data Science Projects</h3>
     <p>EDA, regression </p>
