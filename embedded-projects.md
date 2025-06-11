@@ -48,7 +48,7 @@ permalink: /embedded-projects.html
     <p><strong>Hardware:</strong> Atmega8</p>
     <p><strong>Language:</strong> C </p>
     <p>Solar Home lighting System have a controller with in built battery which is used to impower the Lighting syatem and a small Dc fan. this was designed for the Indian     Indian rural area.</p>
-    <img src="assets/img/Home_Automation.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <img src="assets/img/solar_home_lighting.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <!--
     <a href="https://github.com/bipulkumar1/Test.git">
