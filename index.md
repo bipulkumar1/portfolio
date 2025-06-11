@@ -42,12 +42,13 @@ My long-term vision is to shape the future of **connected technologies** as a **
     <a href="/portfolio/embedded-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
-
+<!--
   <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
     <h3>Data Engineering Projects</h3>
     <p>Database, Big Data - hadoop, Cloud Architecture    </p>
     <a href="/portfolio/data-engineering-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
+ 
 
 <div style="border: 1px solid #ccc; border-radius: 12px; padding: 16px; text-align: center; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
   <h3>OS Projects</h3>
@@ -61,6 +62,6 @@ My long-term vision is to shape the future of **connected technologies** as a **
     <a href="/portfolio/matlab-projects.html" style="text-decoration: none; color: white; background: #007BFF; padding: 8px 16px; border-radius: 8px; display: inline-block;">View Projects</a>
   </div>
 
-  
+   -->
 
 </div>
