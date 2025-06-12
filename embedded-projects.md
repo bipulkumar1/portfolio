@@ -15,7 +15,7 @@ permalink: /embedded-projects.html
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
     <h2> Jio Smart Android Module</h2>
-    <h3> (EDOM Technology)</h3>
+    <h3> (Jio Platforms Limited)</h3>
     <p><strong>Domain:</strong> Embedded, IoT (BLE)</p>
     <p><strong>Hardware:</strong> Medaitek</p>
    <!--
