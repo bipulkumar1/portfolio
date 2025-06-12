@@ -13,16 +13,19 @@ permalink: /iot-projects.html
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>BLE Media Controller</h3>
+    <h2>BLE Media Controller</h2>
+    <h3>(Self Interest)</h3>
     <p><strong>Domain:</strong> BLE, Real-Time Control</p>
     <p><strong>Hardware:</strong> EFR32BG22</p>
-    <p><strong>Language:</strong> C, Bluetooth Stack</p>
+    <p><strong>Language:</strong> Embedded C, Bluetooth Stack</p>
     <p>BLE-based remote with play/pause, volume up/down, and track control features.</p>
-    <img src="assets/img/genAI.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <img src="assets/img/media_controller.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
+    <!--
     <a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
     </a>
+    -->
   </div>
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
@@ -41,6 +44,7 @@ permalink: /iot-projects.html
     -->
   </div>
 
+<!--
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
     <h3>🌐 LTE IoT Tracker</h3>
     <p><strong>Domain:</strong> Cellular IoT</p>
@@ -53,5 +57,6 @@ permalink: /iot-projects.html
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
     </a>
   </div>
+-->
 
 </div>
