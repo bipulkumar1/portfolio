@@ -28,6 +28,25 @@ permalink: /embedded-projects.html
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
     </a>-->
   </div>
+  
+  <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
+    <h2> Tyre Pressure Monitoring System TPMS</h2>
+    <h3> (Jio Platforms Limited)</h3>
+    <p><strong>Domain:</strong> Embedded, IoT (BLE)</p>
+    <p><strong>Hardware:</strong> Infineon, Silicon Labs</p>
+   <!--
+    <p><strong>Language:</strong> Embedded C, HAL Library </p>
+    -->
+    <p>TPMS to measure the internal Tyre Pressure and Temperature with BLE connectivity for 2-Wheeler, 3-wheeler and 4-Wheeler passenger vehicle.
+    Internal and External design for retro fit </p>
+    <img src="assets/img/TPMS.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <br/><br/>
+    <!--<a href="https://github.com/bipulkumar1/Test.git">
+      <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
+    </a>-->
+  </div>
+
+  
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
     <h2> Home Automation System</h2>
     <h3> (EDOM Technology)</h3>
