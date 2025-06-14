@@ -16,7 +16,7 @@ permalink: /data-science-projects.html
     <h3>Telecom Churn Prediction</h3>
     <p><strong>Domain:</strong> Data Analysis</p>
     <p>Predicts customer churn using exploratory data analysis and ML models.</p>
-    <img src="assets/img/churn.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <img src="assets/img/churn.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <!--
     <a href="https://github.com/bipulkumar1/Test.git">
