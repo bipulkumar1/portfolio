@@ -13,7 +13,8 @@ permalink: /data-science-projects.html
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
-    <h3>Telecom Churn Prediction</h3>
+    <h2>Telecom Churn Prediction</h2>
+    <h3> (Self Interest) </h3>
     <p><strong>Domain:</strong> Data Analysis</p>
     <p>Predicts customer churn using exploratory data analysis.</p>
     <img src="assets/img/churn.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
