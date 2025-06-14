@@ -6,7 +6,7 @@ permalink: /data-science-projects.html
 
 <div style="text-align: center;">
   <h1> Data Science Projects</h1>
-  <h3 style="font-weight: normal;">Churn | Credit Score | Predictive Analytics | ML Models</h3>
+  <h3 style="font-weight: normal;">Churn | Credit Score | Predictive Analytics </h3>
 </div>
 <hr style="margin: 20px 0;"/>
 
@@ -15,7 +15,7 @@ permalink: /data-science-projects.html
   <div style="width: 300px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); padding: 15px; text-align: center;">
     <h3>Telecom Churn Prediction</h3>
     <p><strong>Domain:</strong> Data Analysis</p>
-    <p>Predicts customer churn using exploratory data analysis and ML models.</p>
+    <p>Predicts customer churn using exploratory data analysis.</p>
     <img src="assets/img/churn.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
     <!--
