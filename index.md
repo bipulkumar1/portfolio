@@ -1,6 +1,6 @@
 # Introduction
 ---
-I'm **Vipul Singh aka Bipul Kumar**, a Product Leader and Embedded Systems Consultant with **10+ years** of experience building high-impact products and driving technology strategy across **Automotive**, **IoT**, and **AI** domains.
+I'm **Bipul Kumar (Vipul)**, a Product Leader and Embedded Systems Consultant with **10+ years** of experience building high-impact products and driving technology strategy across **Automotive**, **IoT**, and **AI** domains.
 
 Throughout my journey—from founding hardware startups to leading cross-functional engineering teams—I’ve consistently merged innovation with business outcomes. I specialize in **embedded systems design**, **real-time firmware**, **connected devices**, and **product-market fit strategy**.
 
