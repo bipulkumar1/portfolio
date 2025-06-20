@@ -5,7 +5,7 @@ permalink: /experience.html
 ---
 
 <h2 style="text-align: center;">Experience</h2>
-<n3 style= "text-align: center;">8 Years Industry & 3+ Entrepreneurship Experience</n3>
+<h3 style="text-align: center;">8 Years Industry & 3+ Entrepreneurship Experience</h3>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; justify-content: center; align-items: center; padding: 20px;">
 
