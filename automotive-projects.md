@@ -23,6 +23,11 @@ permalink: /automotive-projects.html
     -->
     <p>Android based Cluster for 2-Wheeler targetting premium segment.</p>
     <img src="assets/img/cluster.jpg" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
+    <p>*Source: Jio Platforms official site / Times of India / Economic Times
+
+This image is used to illustrate the product where I contributed to the product engineer. All trademarks and IP belong to their respective owners.
+
+    </p>
     <br/><br/>
     <!--<a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
@@ -38,6 +43,11 @@ permalink: /automotive-projects.html
     <p>Tracking device for automotive secment with and Without CAN Protocol </p>
     <img src="assets/img/tracker.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
+    <p>*Source: Jio Platforms official site / Amazon.in*
+
+This image is used to illustrate the product where I contributed to the embedded firmware architecture and BLE-MQTT-LwM2M integration. All trademarks and IP belong to their respective owners.
+
+    </p>
     <!--<a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
     </a>-->
