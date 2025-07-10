@@ -7,6 +7,7 @@ permalink: /embedded-projects.html
 <div style="text-align: center;">
   <h1> Embedded Projects</h1>
   <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors </h3>
+  <h2 All Images are Indicative only and All trademarks and IP belong to their respective owners. h2>
   <!-- <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors | Display | Drivers</h3>-->
 </div>
 <hr style="margin: 20px 0;"/>
@@ -24,6 +25,7 @@ permalink: /embedded-projects.html
     <p>JSAM is an android module specially designed for the Cluster and enfotainment application targetting Indian OEMs </p>
     <img src="assets/img/JSAM.png" style="width: 200px; height: 150px; border-radius: 8px; margin-top: 10px;" />
     <br/><br/>
+   
     <!--<a href="https://github.com/bipulkumar1/Test.git">
       <img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub"/>
     </a>-->
