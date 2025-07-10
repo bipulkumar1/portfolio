@@ -7,6 +7,7 @@ permalink: /data-science-projects.html
 <div style="text-align: center;">
   <h1> Data Science Projects</h1>
   <h3 style="font-weight: normal;">Churn | Credit Score | Predictive Analytics </h3>
+    <h2>All Images are Indicative only and All trademarks and IP belong to their respective owners. </h2>
 </div>
 <hr style="margin: 20px 0;"/>
 
