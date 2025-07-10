@@ -6,7 +6,7 @@ permalink: /ai-ml-projects.html
 
 <div style="text-align: center;">
   <h1> AI-ML Projects</h1>
-  <h3 style="font-weight: normal;">AI | ML | Deep Learning | GAN | Image Processing | NLP | EDGE-AI</h3>
+  <h3 style="font-weight: normal;">AI | ML | Deep Learning | GAN | NLP | EDGE-AI</h3>
     <h2>All Images are Indicative only and All trademarks and IP belong to their respective owners. </h2>
 </div>
 <hr style="margin: 20px 0;"/>
