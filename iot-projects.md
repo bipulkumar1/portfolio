@@ -7,6 +7,7 @@ permalink: /iot-projects.html
 <div style="text-align: center;">
   <h1> IoT Projects</h1>
   <h3 style="font-weight: normal;">Firmware | Connectivity | Real-Time | BLE | Sensors | Cloud</h3>
+    <h2>All Images are Indicative only and All trademarks and IP belong to their respective owners. </h2>
 </div>
 <hr style="margin: 20px 0;"/>
 
