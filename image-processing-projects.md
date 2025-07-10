@@ -7,6 +7,7 @@ permalink: /image-processing-projects.html
 <div style="text-align: center;">
   <h1> Image Processing Projects</h1>
   <h3 style="font-weight: normal;"> Gesture Control, Driver Behaviour, ADAS </h3>
+    <h2>All Images are Indicative only and All trademarks and IP belong to their respective owners. </h2>
   <!-- <h3 style="font-weight: normal;">Bare Metal | RTOS | BLE | Sensors | Display | Drivers</h3>-->
 </div>
 <hr style="margin: 20px 0;"/>
